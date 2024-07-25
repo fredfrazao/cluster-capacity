@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM golang:latest
+FROM golang:1.23rc2
 
 MAINTAINER Avesh Agarwal <avagarwa@redhat.com>
 
